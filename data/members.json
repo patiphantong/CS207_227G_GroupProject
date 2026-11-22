@@ -1,0 +1,29 @@
+{
+    "members": [
+        {
+            "name": "นาย ปฏิภาณ ตองกลิ่น",
+            "student_id": "1680701834",
+            "role": "custom.py, Members.py",
+            "image": "data/imgs/ปฏิภาณ_ตองกลิ่น_1680701834.jpg"
+        },
+        {
+            "name": "นาย กวินท์ ล่ำสันต์",
+            "student_id": "1680702972",
+            "role": "Bayes.py",
+            "image": "data/imgs/kawin.jpg"
+        },
+        {
+            "name": "นาย สรวิชญ์ ยื้อเผ่าพันธ์",
+            "student_id": "1680703285",
+            "role": "Markov.py",
+            "image": "data/imgs/sorawit.jpg"
+        },
+        {
+            "name": "นาย ปาณัทพงษ์ ศรีสุพจนานนท์",
+            "student_id": "1680703764",
+            "role": "Home.py , Statistics.py",
+            "image": "data/imgs/panutpong.jpg"
+        }
+
+    ]
+}
